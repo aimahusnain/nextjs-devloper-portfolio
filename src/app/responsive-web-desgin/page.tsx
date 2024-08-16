@@ -111,7 +111,7 @@ const page = () => {
                 <section className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-20">
                     <div className="container mx-auto px-6 text-center">
                         <h2 className="text-3xl font-bold mb-4">Ready to Make Your Website Responsive?</h2>
-                        <p className="text-xl mb-8">Let's create a website that looks great on every device.</p>
+                        <p className="text-xl mb-8">Let&apos;s create a website that looks great on every device.</p>
                         <a href="#contact" className="bg-white text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 py-3 px-8 rounded-full text-lg font-semibold hover:bg-gray-100 transition duration-300">Get Started Now</a>
                     </div>
                 </section>
