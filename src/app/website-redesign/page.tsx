@@ -120,7 +120,7 @@ const WebsiteRedesignPage = () => {
                 <section className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-20">
                     <div className="container mx-auto px-6 text-center">
                         <h2 className="text-3xl font-bold mb-4">Ready to Revitalize Your Online Presence?</h2>
-                        <p className="text-xl mb-8">Let's create a website that truly represents your brand and drives results.</p>
+                        <p className="text-xl mb-8">Let&apos;s create a website that truly represents your brand and drives results.</p>
                         <a href="#contact" className="bg-white text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 py-3 px-8 rounded-full text-lg font-semibold hover:bg-gray-100 transition duration-300">Start Your Website Redesign Project</a>
                     </div>
                 </section>
